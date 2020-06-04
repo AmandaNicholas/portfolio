@@ -14,10 +14,27 @@ Sample end-user guides
 
 These samples are still under NDA; please email me for more information.
 
-* A PDF user guide for a cloud application to perform remote tasks (such as software upgrades) to payment terminals
-* Online user guides (delivered via secure website) for a fleet management application
-* Online user guides (delivered as online help within the application) for a Learning Management System (LMS)
-* Procedure documents (in Microsoft Word) for an inventory-management system. The delivery was in Word at request of the business - they wished to allow changes to easily be made in future and Word was their desired editing tool.
+.. list-table::
+   :widths: 10 30 10 
+   :header-rows: 1
+ 
+   *  - **Doc Type**
+      - **Description**
+      - **Delivery** 
+   *  - User Guide
+      - For users of a cloud application to perform tasks to remotely manage payment terminals (eg to upgrade software on the terminal)
+      - PDF
+   *  - User Guides
+      - Tasks performed using a fleet management application
+      - HTML files on a secure website
+   *  - Online help
+      - Tasks performed by users of a Learning Management System (LMS)
+      - Within the application
+   *  - Procedure documents
+      - Tasks performed by users of an inventory management system  
+      - Microsoft Word
+
+The delivery was in Word at request of the business - they wished to allow changes to easily be made in future and Word was their desired editing tool.
 
 API documentation
 =================
@@ -33,26 +50,57 @@ These samples are still under NDA; please email me for more information.
 
 I created the following API documentation for the below RESTful web APIs. Messages were sent and received in JSON.
 
-* An API to create and deploy media content to the screens on outdoor payment terminals
-* An API to create mobile apps that allow a customer to pre-pay for fuel and authorize fuel pumps for delivery.
+.. list-table::
+   :widths: 10 30 10 
+   :header-rows: 1
+ 
+   *  - **Doc Type**
+      - **Description**
+      - **Delivery**
+   *  - API Developer Guide   
+      - For creating and deploying media content to the screens on outdoor payment terminals.
+      - PDF
+   *  - API Developer Guide
+      - For creating mobile apps that allow a customer to pre-pay for fuel and authorise fuel pumps for delivery.
+      - PDF
 
-In addition I redeveloped older documentation using XML messages for a Fuel Controller (FCC). The API allowed Point of Sale (POS) software to interact with the FCC on a gas station forecourt.
+In addition I redeveloped older documentation for a Fuel Controller (FCC) API. Messages were sent and received in XML.
 
-.. note:: Documenting these APIs required me to become familiar with developer documentation of APIs (eg Swagger). I also tested all messages used in the documentation using Postman. 
+.. list-table::
+   :widths: 10 30 10 
+   :header-rows: 1
+
+   *  - **Doc Type**
+      - **Description**
+      - **Delivery**
+   *  - API Developer Guide   
+      - For Point of Sale (POS) software to interact with the FCC to authorize pumps on a petrol station forecourt.
+      - PDF
+
+.. note:: Documenting these APIs required me to become familiar with developer documentation of APIs (eg Swagger). I also tested all messages and responses using Postman so be sure that they were correct. 
 
 Quick Start Guides
 ==================
 
-There are many use-cases for a Quick Start Guide to be part of your documentation package. It's also a great sales tool and not too bulky to easily point out some of the best parts of your software. 
+There are many use-cases for a Quick Start Guide to be part of your documentation package. It's also a great sales tool to easily point out some of the best parts of your software. 
 
 Sample quick start guides
 -------------------------
 
 The following Quick Start Guides are still under NDA; please email me for more information.
 
-* Outdoor Payment Terminal - single unit
-* Outdoor Payment Terminal - modular unit
-* Fleet Management Software-as-a-Service Application.
+.. list-table::
+   :widths: 40 10 
+   :header-rows: 1
+
+   *  - **Description**
+      - **Delivery**
+   *  - Outdoor Payment Terminal - single unit
+      - PDF
+   *  - Outdoor Payment Terminal - modular unit
+      - PDF
+   *  - Fleet Management Software-as-a-Service application
+      - PDF
 
 Other writing
 =============

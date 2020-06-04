@@ -114,6 +114,14 @@ html_sidebars = {
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'AmandasPortfolio2020doc'
 
+# Override to fix bug causing tables to scroll horizontally.
+html_static_path = ['_static']
+
+html_context = {
+    'css_files': [
+        '_static/theme_overrides.css',  # override wide tables in RTD theme
+        ],
+     }
 
 # -- Options for LaTeX output ---------------------------------------------
 
