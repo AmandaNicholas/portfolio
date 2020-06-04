@@ -22,7 +22,7 @@ These samples are still under NDA; please email me for more information.
       - **Description**
       - **Delivery** 
    *  - User Guide
-      - For users of a cloud application to perform tasks to remotely manage payment terminals (eg to upgrade software on the terminal)
+      - For users of a cloud application to perform remote tasks on payment terminals (eg to upgrade software on the terminal)
       - PDF
    *  - User Guides
       - Tasks performed using a fleet management application
@@ -32,9 +32,9 @@ These samples are still under NDA; please email me for more information.
       - Within the application
    *  - Procedure documents
       - Tasks performed by users of an inventory management system  
-      - Microsoft Word
+      - Microsoft Word *
 
-The delivery was in Word at request of the business - they wished to allow changes to easily be made in future and Word was their desired editing tool.
+.. note:: The delivery was in Word at request of the business - they wished to allow changes to easily be made in future and Word was their desired editing tool.
 
 API documentation
 =================
@@ -77,7 +77,7 @@ In addition I redeveloped older documentation for a Fuel Controller (FCC) API. M
       - For Point of Sale (POS) software to interact with the FCC to authorize pumps on a petrol station forecourt.
       - PDF
 
-.. note:: Documenting these APIs required me to become familiar with developer documentation of APIs (eg Swagger). I also tested all messages and responses using Postman so be sure that they were correct. 
+.. note:: Documenting these APIs required me to become familiar with developer documentation of APIs (eg Swagger). I also tested all messages and responses using Postman. 
 
 Quick Start Guides
 ==================
