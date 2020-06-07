@@ -29,19 +29,19 @@ These samples are still under NDA; please email me for more information.
       - HTML files on a secure website
    *  - Online help
       - Tasks performed by users of a Learning Management System (LMS)
-      - Within the application
+      - Embedded within the application
    *  - Procedure documents
       - Tasks performed by users of an inventory management system  
       - Microsoft Word *
 
-.. note:: The delivery was in Word at request of the business - they wished to allow changes to easily be made in future and Word was their desired editing tool.
+.. note:: Delivery of these documents was in MS Word at request of the business. Although it is not my delivery tool of choice, the company wished their employees to be able to easily edit these documents in the future, and Word was their desired editing tool.
 
 API documentation
 =================
 
 Recently there's been a lot of demand for companies to expose APIs to go with their products. 
 
-And documentation of the API is a big selling-point - clients are much more likely to use an API with great documentation. 
+And documentation of the API is a big selling-point: clients are much more likely to use an API with great documentation. 
 
 Sample API User Guides
 ----------------------
